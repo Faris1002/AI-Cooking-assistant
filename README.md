@@ -1,1 +1,1 @@
-demo link :- https://ai-repice.netlify.app/
+demo link :- https://ai-cooking-assistant-alpha.vercel.app/
